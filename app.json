@@ -1,6 +1,6 @@
 {
-  "name": "ULTRA MD",
-  "description": " Whatsapp bot made by GlobalTechInfo.",
+  "name": "LUNATIC MD",
+  "description": " Whatsapp bot made by Lunatech.",
   "keywords": [
     "whatsapp"
   ],
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "923444844060"
+      "value": "14028169012"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ULTRA-MD"
+      "value": "LUNATIC-MD"
     },
     "DATABASE_URL": {
       "description": "your mongodb or database url",
